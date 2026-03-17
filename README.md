@@ -67,4 +67,14 @@ Voici quelques technologies avec lesquelles je travaille régulièrement :
 
 ---
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Reichbella&label=Visiteurs&countColor=%23263759)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Reichbella&label=Visiteurs&countColor=%23263759" />
+</p>
+
+---
+
+### 💡 Signature
+
+<p align="center">
+  <i>"Construire des solutions simples pour résoudre des problèmes complexes."</i>
+</p>
