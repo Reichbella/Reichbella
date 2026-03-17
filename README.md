@@ -37,10 +37,26 @@ Voici quelques technologies avec lesquelles je travaille régulièrement :
 
 ### 📊 Statistiques GitHub
 
-![Les stats GitHub de Reich Bella](https://github-readme-stats.vercel.app/api?username=Reichbella&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reichbella&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reichbella&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Reichbella&layout=compact&theme=tokyonight)
+---
 
+### 🔥 Streak (activité)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Reichbella&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🎯 Animation Typing
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Laravel;Toujours+en+apprentissage+🚀;Open+Source+Contributor" />
+</p>
 
 ---
 
