@@ -1,4 +1,4 @@
-### Salut, moi c'est Reich Bella ! 👋
+### Salut, moi c'est Reich Bella ! 
 
 Je suis un **Développeur Full Stack** passionné par la création d'expériences numériques intuitives et performantes. J'aime transformer des idées en code propre, maintenable et fonctionnel.
 
