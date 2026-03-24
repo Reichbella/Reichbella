@@ -5,7 +5,7 @@ Je suis un **Développeur Full Stack** passionné par la création d'expérience
 Je travaille actuellement sur des projets personnels pour approfondir mes compétences en **React** et **Node.js**.
 J'apprends en continu et je suis ouvert à de nouvelles opportunités de collaboration.
 Je cherche à contribuer à des projets **open source**.
-💬 N'hésite pas à me poser des questions sur le développement web ou mes projets.
+N'hésite pas à me poser des questions sur le développement web ou mes projets.
 
 ---
 
