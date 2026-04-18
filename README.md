@@ -1,6 +1,6 @@
 ### Salut, moi c'est Reich Bella ! 👋
 
-Je suis un **Développeur Full Stack** & **ingénieur Système Informatique**maintenable et fonctionnel.
+Je suis un **Développeur Full Stack** maintenable et fonctionnel.
 
 Je travaille actuellement sur des projets personnels pour approfondir mes compétences en **React** et **Node.js**.
 J'apprends en continu et je suis ouvert à de nouvelles opportunités de collaboration.
