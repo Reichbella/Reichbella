@@ -9,7 +9,7 @@ N'hésite pas à me poser des questions sur le développement web ou mes projets
 
 ---
 
-### 🛠️ Langages et Outils
+
 
 Voici quelques technologies avec lesquelles je travaille régulièrement :
 
