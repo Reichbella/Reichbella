@@ -35,15 +35,6 @@ Voici quelques technologies avec lesquelles je travaille régulièrement :
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reichbella&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reichbella&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🔥 Streak (activité)
 
 <p align="center">
