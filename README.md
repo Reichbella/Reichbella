@@ -1,4 +1,4 @@
-### Salut, moi c'est Reich Bella ! 👋
+### Salut, moi c'est Reich Bella !
 
 Je suis un **Développeur Full Stack** & **ingénieur Système Informatique** maintenable et fonctionnel.
 
