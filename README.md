@@ -35,19 +35,6 @@ Voici quelques technologies avec lesquelles je travaille régulièrement :
 
 ---
 
-### 🔥 Streak (activité)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Reichbella&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Laravel;Toujours+en+apprentissage+;Open+Source+Contributor" />
-</p>
----
 
 ### 📫 Me contacter
 
